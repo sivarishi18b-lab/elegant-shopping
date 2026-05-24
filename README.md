@@ -243,7 +243,7 @@ python manage.py test
 - 📧 sivarishi.b18@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/sivarishi-b-0200b6296)
 - 🐙 [GitHub](https://github.com/SivarishiB)
-- 🌐 [Portfolio](https://sivarishi-b.github.io)
+- 🌐 [Portfolio](https://sivarishi18b-lab.github.io/sivarishi-b.github.io/)
 
 ---
 
